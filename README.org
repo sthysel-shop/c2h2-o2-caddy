@@ -1,4 +1,4 @@
-#+title:C_2H_2 O_2 Caddy
+#+title:$C_2H_2 O_2$ Caddy
 
 Another fine example of how not to build a Acetylene torch caddy. I put it here
 as a warning to others. And as a reminder to myself to not allow miserable
