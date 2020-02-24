@@ -1,0 +1,16 @@
+#+title:C2H2 O2 Caddy
+
+Another fine example of how not to build a Acetylene torch caddy. I put it here
+as a warning to others. And as a reminder to myself to not miserable failure
+define me.
+
+Fuck it, its pristine in its perversion.
+
+#+caption: Front
+[[file:pics/front.jpg]]
+
+#+caption: Side
+[[file:pics/side.jpg]]
+
+#+caption: Top
+[[file:pics/top.jpg]]
