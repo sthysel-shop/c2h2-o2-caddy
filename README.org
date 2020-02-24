@@ -1,8 +1,8 @@
 #+title:C2H2 O2 Caddy
 
 Another fine example of how not to build a Acetylene torch caddy. I put it here
-as a warning to others. And as a reminder to myself to not miserable failure
-define me.
+as a warning to others. And as a reminder to myself to not allow miserable
+failure to define me.
 
 Fuck it, its pristine in its perversion.
 
