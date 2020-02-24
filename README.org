@@ -12,5 +12,8 @@ Fuck it, its pristine in its perversion.
 #+caption: Side
 [[file:pics/side.jpg]]
 
+Cobbled from two previous even worse other project failures. So almost no waste.
+At least it cleaned up the place a bit.
+
 #+caption: Top
 [[file:pics/top.jpg]]
